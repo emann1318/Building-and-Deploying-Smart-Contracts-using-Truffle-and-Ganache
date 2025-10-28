@@ -297,9 +297,10 @@ MIT License - See LICENSE file for details
 
 ## Author
 
-Eman Faris - Assignment 03
+Eman Faris 
 
 ---
 
 For questions or issues, please refer to the [Truffle Documentation](https://trufflesuite.com/docs) or [Solidity Documentation](https://docs.soliditylang.org/).
+
 
