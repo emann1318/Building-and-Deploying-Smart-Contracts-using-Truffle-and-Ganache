@@ -1,0 +1,27 @@
+{
+  "name": "user-profile-dapp",
+  "version": "1.0.0",
+  "description": "A decentralized application for managing user profiles on the blockchain",
+  "main": "truffle-config.js",
+  "scripts": {
+    "compile": "truffle compile",
+    "migrate": "truffle migrate",
+    "reset": "truffle migrate --reset",
+    "console": "truffle console",
+    "test": "truffle test"
+  },
+  "keywords": [
+    "blockchain",
+    "smart-contracts",
+    "ethereum",
+    "truffle",
+    "solidity",
+    "dapp"
+  ],
+  "author": "Eman Faris",
+  "license": "MIT",
+  "dependencies": {
+    "truffle": "^5.11.5"
+  }
+}
+
